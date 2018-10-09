@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8a40011-0131-4591-afd3-d22afac7a67a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Project04_10_18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project04_10_18.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project04_10_18.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Project04_10_18.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project04_10_18.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Project04_10_18.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javacourse/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javacourse/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javacourse/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javacourse/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javacourse/OddAndEvenNumbers.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -214,25 +216,28 @@
     <session id="867891433">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="2284" />
+          <entry key="txt" value="28" />
           <entry key="xml" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2284" />
+          <entry key="PLAIN_TEXT" value="28" />
           <entry key="XML" value="88" />
         </counts>
       </usages-collector>
@@ -405,9 +410,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -445,6 +447,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewSettings">
@@ -581,12 +586,21 @@
       <workItem from="1538858758249" duration="560000" />
       <workItem from="1538859353051" duration="1113000" />
       <workItem from="1538898031114" duration="130000" />
-      <workItem from="1538934740612" duration="1035000" />
+      <workItem from="1538934740612" duration="1653000" />
+      <workItem from="1538944809266" duration="33000" />
     </task>
+    <task id="LOCAL-00001" summary="Enabled necessary plugins">
+      <created>1538935801920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538935801920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12574000" />
+    <option name="totallyTimeSpent" value="13225000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -603,7 +617,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info id="Project" order="0" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" weight="0.24966443" />
       <window_info id="Web" order="2" weight="0.25" />
       <window_info id="Designer" order="3" />
@@ -645,6 +659,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Enabled necessary plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enabled necessary plugins" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
